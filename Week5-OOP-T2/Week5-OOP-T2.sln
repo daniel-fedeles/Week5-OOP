@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1-SchoolClasses", "Ex1-SchoolClasses\Ex1-SchoolClasses.csproj", "{5D27671A-BB61-44B4-8620-19C80FB0465D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-AnimalHierarchy", "Ex3-AnimalHierarchy\Ex3-AnimalHierarchy.csproj", "{60EBE72C-E888-41E3-A225-7551F1AC8F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D27671A-BB61-44B4-8620-19C80FB0465D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D27671A-BB61-44B4-8620-19C80FB0465D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D27671A-BB61-44B4-8620-19C80FB0465D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D27671A-BB61-44B4-8620-19C80FB0465D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EBE72C-E888-41E3-A225-7551F1AC8F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EBE72C-E888-41E3-A225-7551F1AC8F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EBE72C-E888-41E3-A225-7551F1AC8F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EBE72C-E888-41E3-A225-7551F1AC8F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B50CC2F-9372-40CE-B1CB-97A3EFE94EC9}
+	EndGlobalSection
+EndGlobal

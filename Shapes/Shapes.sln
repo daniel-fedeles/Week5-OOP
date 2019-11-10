@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{BFA2D21B-95CB-4B8E-AFA8-1493012FA0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{DC63AF13-D01D-41E0-A65A-7499607297E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA2D21B-95CB-4B8E-AFA8-1493012FA0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA2D21B-95CB-4B8E-AFA8-1493012FA0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA2D21B-95CB-4B8E-AFA8-1493012FA0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA2D21B-95CB-4B8E-AFA8-1493012FA0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC63AF13-D01D-41E0-A65A-7499607297E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC63AF13-D01D-41E0-A65A-7499607297E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC63AF13-D01D-41E0-A65A-7499607297E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC63AF13-D01D-41E0-A65A-7499607297E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF46A3CE-92ED-4DB2-81DA-57A54E225E6F}
+	EndGlobalSection
+EndGlobal
